@@ -4,4 +4,6 @@ Flask-Migrate
 Flask-CORS
 gunicorn
 flask_jwt_extended
+requests
+
 # …plus whatever else (Flask-JWT-Extended, psycopg2-binary or similar)
