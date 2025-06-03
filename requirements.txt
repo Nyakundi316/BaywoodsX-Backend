@@ -3,4 +3,5 @@ Flask-SQLAlchemy
 Flask-Migrate
 Flask-CORS
 gunicorn
+flask_jwt_extended
 # …plus whatever else (Flask-JWT-Extended, psycopg2-binary or similar)
