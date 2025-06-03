@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-CORS
+gunicorn
+# …plus whatever else (Flask-JWT-Extended, psycopg2-binary or similar)
