@@ -5,5 +5,5 @@ Flask-CORS
 gunicorn
 flask_jwt_extended
 requests
-
+python-dotenv
 # …plus whatever else (Flask-JWT-Extended, psycopg2-binary or similar)
